@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\jmhea\source\repos\heapallocator\heapallocator\main.c(25,9): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\jmhea\source\repos\heapallocator\heapallocator\main.c(25,9):
+  consider using '%zi' in the format string
+  
+C:\Users\jmhea\source\repos\heapallocator\heapallocator\main.c(53,9): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\jmhea\source\repos\heapallocator\heapallocator\main.c(53,9):
+  consider using '%zi' in the format string
+  
+  heapallocator.vcxproj -> C:\Users\jmhea\source\repos\heapallocator\x64\Debug\heapallocator.exe
